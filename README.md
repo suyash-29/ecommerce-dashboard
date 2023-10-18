@@ -97,6 +97,6 @@ Stripe has been integrated into the project to handle payments securely. You'll 
 
 ## Thank you
 
-Thank you for choosing our E-Commerce Store Website template. If you have any questions or need further assistance, please don't hesitate to contact us.
+Thank you for choosing our E-Commerce dashboard Website template. If you have any questions or need further assistance, please don't hesitate to contact me( email: suyash290403@gmail.com)
 
-Happy Selling! 🛒🚀
+Happy managing! 🛒🚀
