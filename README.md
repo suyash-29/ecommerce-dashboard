@@ -13,8 +13,7 @@ Visit our E-Commerce dshboard at [Store-link](https://ecommerce-dashboard-dun.ve
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Stripe Payment Integration](#stripe-payment-integration)
-7. [Thank You](#Thank You)
-
+7. [Thank you](#Thank you)
 ## Overview
 
 This E-Commerce dashboard is a modern, user-friendly, and secure platform for online shopping. It is built using React.js and Next.js for a fast and efficient user experience. The website incorporates clerk authentication integration to ensure secure and convenient login . Using this you will be able manage  products, orders, and other data of the e-commerce store, which can be found in another repository on my GitHub.
