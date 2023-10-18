@@ -3,7 +3,7 @@
 Welcome to the README for the Dashboard of your E-Commerce Store. This dashboard is a powerful and versatile admin panel that serves as a Content Management System (CMS), Admin interface, and API generator for managing multiple vendors and stores. Whether you're running a "Shoe store," a "Laptop store," a "Suit store," or any other e-commerce business, this dashboard is your all-in-one solution.
 
 ## Deployed Website
-Visit our E-Commerce dshboard at [Store-link](https://ecommerce-dashboard-dun.vercel.app/).
+Visit our E-Commerce dahboard at [dashboard-link](https://ecommerce-dashboard-dun.vercel.app/).
 
 ## Table of Contents
 
@@ -41,6 +41,9 @@ This E-Commerce dashboard is a modern, user-friendly, and secure platform for on
 ## Getting Started
 
 Before running the project, make sure you have Next.js and npm (Node Package Manager) installed on your system.
+-you will need to make your own account on clerk and generate keys for environment variables .
+-create and configure your own database on planetscale .
+-Cloudinary account for images upload channel .
 
 ## Installation
 
